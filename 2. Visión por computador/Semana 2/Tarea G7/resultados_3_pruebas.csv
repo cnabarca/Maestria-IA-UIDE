@@ -1,0 +1,4 @@
+Caso,Ruta,Esperado,Predicho,Resultado,Prob Fondo,Prob Cesar
+Prueba 1,C:/Users/cabarca2/MAESTRIA_IA/Vision-por-computador/semana 2/DEBER/data/pruebas/prueba1_cesar1.jpg,Cesar,Cesar,Correcto,0.0,1.0
+Prueba 2,C:/Users/cabarca2/MAESTRIA_IA/Vision-por-computador/semana 2/DEBER/data/pruebas/prueba2_fondo1.jpg,Fondo,Fondo,Correcto,1.0,0.0
+Prueba 3,C:/Users/cabarca2/MAESTRIA_IA/Vision-por-computador/semana 2/DEBER/data/pruebas/prueba3_otro_rostro1.jpg,Fondo,Fondo,Correcto,1.0,0.0
